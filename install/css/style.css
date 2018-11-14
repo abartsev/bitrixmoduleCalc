@@ -1,0 +1,25 @@
+table#dowebcalclist1_edit_table,table#dowebcalclist0_edit_table td {
+    text-align: center;
+}
+.thead > td {
+    font-weight: 600;
+    border-bottom: 1px solid;
+    text-align: center;
+}
+.tbody > td {
+    border-bottom: 1px solid #cdcdc9;
+    text-align: center;
+}
+.change, .close {
+    border: 1px solid;
+    padding: 2px 5px;
+    cursor: pointer;
+    background: #ccc;
+}
+.stacChange{
+    border: 1px solid;
+    padding: 2px 5px;
+    cursor: pointer;
+    background: #ccc;
+    color: #eeeeee;
+}

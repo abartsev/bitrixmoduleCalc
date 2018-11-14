@@ -1,0 +1,3 @@
+-- DROP TABLE IF EXISTS b_doweb_calc_standart;
+-- DROP TABLE IF EXISTS b_doweb_calc_premium;
+-- DROP TABLE IF EXISTS b_doweb_calc_lux;
